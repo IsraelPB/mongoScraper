@@ -7,7 +7,7 @@ var expressHbs = require("express-handlebars");
 var mongoose = require("mongoose");
 
 var indexRouter = require("./routes/index");
-var PORT = 3000;
+var PORT = process.env.PORT || 3000;
 var app = express();
 
 // Connect to the Mongo DB
