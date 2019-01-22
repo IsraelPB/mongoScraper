@@ -18,4 +18,6 @@ morgan
 mongoose
 
 
-# heroku deployment.. coming soon ..
+# heroku deployment
+
+  follow the link here https://glacial-caverns-94193.herokuapp.com/
